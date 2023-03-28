@@ -1,4 +1,4 @@
-# bikesharingvf-
+# bikesharing-
 ## Module 15 challenge
 ### [link to dashboard](https://public.tableau.com/app/profile/emilio.segura/viz/CityBikesystem/Dashboard1?publish=yes)
 In this repository you will be able to find a code that cleans up data for the NYC citibike website by converting the date into actual date format for tableau interpretation.
